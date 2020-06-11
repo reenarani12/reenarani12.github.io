@@ -28,6 +28,7 @@ img{
     padding-top:50px;
     display: flex;
     flex-wrap: wrap;
+	Object-fit:cover;
 }
 
 @media only screen and (max-width:748px){
@@ -35,6 +36,7 @@ img{
         padding-top:116px;
         display: flex;
         flex-wrap: wrap;
+	    Object-fit:cover;
     }
 } 
 @media screen and (min-width:300px){
@@ -42,6 +44,7 @@ img{
         padding-top:70px;
         display: flex;
         flex-wrap: wrap;
+	    Object-fit:cover;
     }
 } 
 @media screen and (min-width:200px){
@@ -49,6 +52,7 @@ img{
         padding-top:100px;
         display: flex;
         flex-wrap: wrap;
+	    Object-fit:cover;
     }
 } 
 .index-offers-img{
