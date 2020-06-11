@@ -29,7 +29,34 @@ img{
     display: flex;
     flex-wrap: wrap;
 }
-
+@media only screen and (max-width:1920px){
+    .index-main-img{
+        padding-top:100px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+} 
+@media only screen and (max-width:1024px){
+    .index-main-img{
+        padding-top:100px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+@media only screen and (max-width:1200px){
+    .index-main-img{
+        padding-top:100px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+@media only screen and (max-width:8640px){
+    .index-main-img{
+        padding-top:100px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
 @media only screen and (max-width:748px){
     .index-main-img{
         padding-top:116px;
